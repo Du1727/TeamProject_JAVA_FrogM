@@ -23,13 +23,6 @@ JAVA / Oracle
 · 매장 운영 파트를 분배하여 등록하는 화면 구현(관리 메뉴)<br>
 · 매장 운영 스케줄 등록 및 근무자 정보 배치 화면 구현 (관리 메뉴)<br>
 
-
-<br>
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/9535b8e0-8ba9-4be3-87b5-e5cdb277eb6e)
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/6c1008b1-e47d-479c-90a4-14296e0e331e)
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/4a4dd7ab-1550-4adc-9755-c5ca1b73e2af)
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/5b7be0e5-a5e7-43e7-bdc2-324e5b20605e)
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/51039e6e-6560-4970-a353-6ee804037bb7)
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/f04b0e8f-1efe-403e-b999-a4e8ace86ebd)
-![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/161093a9-6ae6-41da-b8f2-332d08311e5a)
-
+![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/203c4a36-dc21-4ca7-9f96-8fdb328c6cf5)
+![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/3a51487d-94a5-41b9-8e35-be4d18131c13)
+![image](https://github.com/Du1727/TeamProject_JAVA_FrogM/assets/117519801/2d176427-ec44-4006-96c3-352c56737a9a)
